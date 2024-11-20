@@ -1,2 +1,3 @@
 # SQL_Project_Music_Store_Analysis
-Data Analysis Project Portfolio
+SQL project to analyze online music store data
+
